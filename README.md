@@ -4,6 +4,8 @@ Software Engineer building production AI agents and large-scale distributed syst
 
 I design and own systems end-to-end — from LangGraph + SageMaker retrieval pipelines to high-throughput Apache Spark systems processing millions of records.
 
+📄 **[Download Resume (PDF)](https://akbytes.com/Atul_Kumar_Resume.pdf)** &nbsp;·&nbsp; 🌐 [akbytes.com](https://akbytes.com/) &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/atul-jawa)
+
 ---
 
 ### 🚀 Snapshot
@@ -54,6 +56,7 @@ I design and own systems end-to-end — from LangGraph + SageMaker retrieval pip
 
 ### 📬 Contact
 
+- **Resume:** 📄 [Download PDF](https://akbytes.com/Atul_Kumar_Resume.pdf)
 - **Email:** ✉️ atul.jawa857@gmail.com
 - **Phone:** 📞 +91 85720 21225
 - **LinkedIn:** 🔗 https://linkedin.com/in/atul-jawa
