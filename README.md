@@ -1,56 +1,54 @@
 ## Atul Kumar
 
-Software Engineer with 3+ years in financial services, shipping production AI agents and large-scale data platforms on AWS.
+Software Engineer building production AI agents and large-scale distributed systems.
 
-I design and own systems end-to-end — from LangGraph + SageMaker retrieval pipelines to high-throughput Apache Spark systems powering tier-1 regulatory reporting.
+I design and own systems end-to-end — from LangGraph + SageMaker retrieval pipelines to high-throughput Apache Spark systems processing millions of records.
 
 ---
 
-### 🚀 Professional Snapshot
+### 🚀 Snapshot
 
-- **Current role:** Engineering Associate, Goldman Sachs
-- **Domain:** AI agents · Backend architecture · Data engineering · Cloud automation
+- **Current role:** Engineering Associate, Goldman Sachs Engineering
+- **Interests:** Production AI/ML systems · Distributed data infrastructure · Backend at scale · Developer productivity
 - **Selected impact:**
-  - Deflected **80%** of internal travel & expense support queries with an AI agent (LangGraph + AWS SageMaker)
-  - Cut regulatory report processing time by **83%** (12 hrs → 2 hrs) on Apache Spark 3
-  - Accelerated monthly data availability by up to **17 days** through NRT/incremental pipelines
-  - Reduced regulatory-report build time by **~75%** with shared Spark libraries
-  - Streamed **5M+ records** per request at **~50K rec/sec** via a server-side export API
-- **Platform expertise:** AWS (Glue, ECS, Step Functions, S3, Aurora, SageMaker) · Apache Spark · LangGraph · Kafka · Terraform · Docker · Snowflake
+  - Shipped a production **LangGraph + AWS SageMaker** agent (RAG, multi-step retrieval) that **deflects 80%** of internal support queries — under 20s average response time over a 40-document corpus
+  - Streamed **5M+ records per request at ~50K records/sec** via a server-side streaming API, replacing a batch path that timed out and OOM'd
+  - Cut a critical data pipeline **6x (12 hr → 2 hr)** by re-architecting it on Apache Spark 3, and shifted downstream data availability **17 days earlier** by moving end-of-cycle batches to NRT incremental processing
+  - Built shared Spark libraries that reduced new-pipeline build time **~75%** across the team
+  - Designed an OCR + duplicate-detection layer covering **$2M+/day** in invoice volume, and a reviewer-assignment engine with closed-loop cycle-time learning
 
 ---
 
-### 📈 Core Capabilities
+### 🧠 Core Strengths
 
-| Area                  | Expertise                                            |
-| --------------------- | ---------------------------------------------------- |
-| **AI / ML**           | LangGraph agents · RAG · AWS SageMaker · OCR · LLMs  |
-| **Backend systems**   | Spring Boot · Java · Python · REST · Streaming APIs  |
-| **Data platforms**    | Apache Spark 3 · Kafka · Snowflake · SQL · NRT       |
-| **Cloud automation**  | AWS Glue · ECS · Step Functions · Terraform · Docker |
-| **Frontend**          | ReactJS · TypeScript · HTML · CSS                    |
+| Area                      | What I do                                                            |
+| ------------------------- | -------------------------------------------------------------------- |
+| **AI / ML systems**       | LangGraph agents · RAG · embeddings · AWS SageMaker · OCR · LLM apps |
+| **Distributed data**      | Apache Spark 3 · Kafka · AWS Glue · NRT pipelines · Snowflake        |
+| **Backend at scale**      | Java · Python · Spring Boot · streaming APIs · microservices         |
+| **Cloud infrastructure**  | AWS (ECS, Step Functions, Lambda, S3, Aurora) · Terraform · Docker   |
+| **Full-stack delivery**   | ReactJS · TypeScript · product telemetry · end-to-end ownership      |
 
 ---
 
-### 🛠 Technical Proficiencies
+### 🛠 Stack
 
-- **Languages:** Java · Python · C++ · SQL · JavaScript/TypeScript · Shell/Bash
+- **Languages:** Java · Python · C++ · TypeScript/JavaScript · SQL · Shell
 - **AI / ML:** LangGraph · AWS SageMaker · Embeddings & Vector Retrieval · OCR · LLM Application Design
 - **Backend:** Spring Boot · Flask · REST APIs · Server-side streaming · Microservices
-- **Frontend:** ReactJS · HTML · CSS
-- **Data & Pipelines:** Apache Spark 3 · Kafka · AWS Glue · Snowflake · Sybase IQ · NRT pipelines · Data modeling
+- **Data & Pipelines:** Apache Spark 3 · Kafka · AWS Glue · Snowflake · Sybase IQ · Near-real-time pipelines · Data modeling
 - **Cloud & Infra:** AWS (Lambda, ECS, Step Functions, S3, Aurora, API Gateway, Route 53, VPC, ELB) · Terraform · CloudFormation · Docker
-- **Other Tools:** Elasticsearch · MongoDB · PingFederate · SkyFoundry · Cloud FastTrack · P3 Procmon
+- **Frontend:** ReactJS · HTML · CSS · TypeScript
+- **Storage & Search:** Snowflake · Aurora · MongoDB · Elasticsearch · Sybase IQ
 
 ---
 
-### 🎯 Focus Areas
+### 🎯 What I'm interested in
 
-- Production AI agents and RAG pipelines for enterprise workflows
-- Scalable data pipeline design and optimization on Apache Spark + AWS Glue
-- Reporting automation for tier-1 regulatory and enterprise workflows
-- Cloud architecture and infrastructure-as-code on AWS
-- High-performance distributed systems for financial services
+- Production AI agents and RAG at scale — latency, retrieval quality, multi-step orchestration
+- Distributed data infrastructure — throughput, correctness, cost
+- Backend systems serving millions of requests under strict latency and reliability budgets
+- Developer-productivity tooling and shared libraries that compound across a team
 
 ---
 
